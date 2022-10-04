@@ -87,7 +87,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💛OI [DIRECT 1]",
+      "Name": "💛OI [SSL 2]",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "www.hbogo.com.br",
