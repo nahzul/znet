@@ -100,10 +100,10 @@
     {
       "Name": "❤️CLARO [FRONT 1]",
       "FLAG": "claro",
-      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",
+      "ProxyIP": "planos3-assine-empresas.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
