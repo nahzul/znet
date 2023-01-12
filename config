@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
   "EmailFeedback": "knottonim@gmail.com",
   "UrlContato": "https://t.me/knottonim",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "https://t.me/knottonim",
   "CheckUser": "false",
   "Udp": [
     {
@@ -83,7 +83,7 @@
       "Payload": "GET http://bonuz.claro.com.br HTTP/1.1[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "52.67.159.160",
+      "ProxyIP": "15.228.15.194",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
