@@ -108,6 +108,16 @@
       "Info": "Proxy"
     },
     {
+      "Name": "❤️CLARO [FRONT 3]",
+      "FLAG": "claro",
+      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host:dev-portal-lgpd.clarobrasil.mobi[crlf]X-DNS-Prefetch-Control: on[crlf]dns-prefetch=dev-portal-lgpd.clarobrasil.mobi[crlf]Connection[crlf]Upgrade: Websocket[crlf]Connection: HTTP/3[crlf]Upgrade: HTTP/3[crlf]Connection:Upgrade[crlf]Save-Data: off[crlf]Keep-Alive: timeout=7200, max=65536[crlf]Cache-control: no-cache,must-revalidate,no-transform,max-age=0[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "dev-portal-lgpd.clarobrasil.mobi",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
       "Name": "💛OI [SSL 1]",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
