@@ -98,7 +98,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "❤️CLARO [FRONT 1]",
+      "Name": "❤️CLARO [FRONT 2]",
       "FLAG": "claro",
       "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
