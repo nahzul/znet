@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -14,10 +14,21 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor BR",
+      "Name": "Servidor BR - Warson",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "ssh.nahzulguri.shop",
+      "ServerIP": "warson.nahzulguri.shop",
+      "CheckUser": "http://",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "Servidor BR - Zed",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "zed.nahzulguri.shop",
       "CheckUser": "http://",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -73,6 +84,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.67.159.160",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "❤️CLARO [FRONT 1]",
+      "FLAG": "claro",
+      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
