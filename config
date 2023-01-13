@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.1.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -90,7 +90,7 @@
     {
       "Name": "❤️CLARO [FRONT 1]",
       "FLAG": "claro",
-      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",
@@ -100,7 +100,7 @@
     {
       "Name": "❤️CLARO [FRONT 2]",
       "FLAG": "claro",
-      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "planos3-assine-empresas.clarobrasil.mobi",
@@ -110,7 +110,7 @@
     {
       "Name": "❤️CLARO [FRONT 3]",
       "FLAG": "claro",
-      "Payload": "GET wss://d2ypm3ipgd8wbn.cloudfront.net HTTP/1.1[crlf]Host:dev-portal-lgpd.clarobrasil.mobi[crlf]X-DNS-Prefetch-Control: on[crlf]dns-prefetch=dev-portal-lgpd.clarobrasil.mobi[crlf]Connection[crlf]Upgrade: Websocket[crlf]Connection: HTTP/3[crlf]Upgrade: HTTP/3[crlf]Connection:Upgrade[crlf]Save-Data: off[crlf]Keep-Alive: timeout=7200, max=65536[crlf]Cache-control: no-cache,must-revalidate,no-transform,max-age=0[crlf][crlf]",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host:dev-portal-lgpd.clarobrasil.mobi[crlf]X-DNS-Prefetch-Control: on[crlf]dns-prefetch=dev-portal-lgpd.clarobrasil.mobi[crlf]Connection[crlf]Upgrade: Websocket[crlf]Connection: HTTP/3[crlf]Upgrade: HTTP/3[crlf]Connection:Upgrade[crlf]Save-Data: off[crlf]Keep-Alive: timeout=7200, max=65536[crlf]Cache-control: no-cache,must-revalidate,no-transform,max-age=0[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dev-portal-lgpd.clarobrasil.mobi",
