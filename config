@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.0",
+  "Version": "1.1.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -114,6 +114,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "dev-portal-lgpd.clarobrasil.mobi",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "❤️CLARO [FRONT 4]",
+      "FLAG": "claro",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "origin.api3.amxrest.net",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
