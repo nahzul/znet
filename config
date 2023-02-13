@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.5",
+  "Version": "1.1.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -60,10 +60,10 @@
     {
       "Name": "💜VIVO [DIRECT 3]",
       "FLAG": "vivo",
-      "Payload": "HEAD / HTTP/1.1\nHost:landing.stoodi.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "Payload": "GET / HTTP/1.1[crlf]Host: helpypro.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- /?/ HTTP/1.1[crlf]Host:ssh.nahzulguri.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
+      "ProxyIP": "helpypro.stoodi.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
