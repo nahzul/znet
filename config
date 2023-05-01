@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.2",
+  "Version": "1.2.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -60,10 +60,10 @@
     {
       "Name": "❤️CLARO [DIRECT]",
       "FLAG": "claro",
-      "Payload": "GET ws://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: hmg-embed.claromusica.com[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: hmg-embed.claromusica.com[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "d26jskyykkqd3t.cloudfront.net",
+      "ProxyIP": "hmg-embed.claromusica.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
