@@ -60,10 +60,10 @@
     {
       "Name": "❤️CLARO [DIRECT]",
       "FLAG": "claro",
-      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: hmg-embed.claromusica.com[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wss://d1sk1vjhw80513.cloudfront.net HTTP/1.1[crlf]Host: app.develop.clarobanca.imusica.nscreen.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "hmg-embed.claromusica.com",
+      "ProxyIP": "app.develop.clarobanca.imusica.nscreen.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
