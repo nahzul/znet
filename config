@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.5",
+  "Version": "1.2.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/nahzul/znet/main/config",
   "Sms": "https://raw.githubusercontent.com/nahzul/znet/main/sms",
@@ -64,6 +64,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.122.124",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💜VIVO [FRONT 3]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1sk1vjhw80513.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.72",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
