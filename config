@@ -53,7 +53,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d1sk1vjhw80513.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "65.8.214.123",
+      "ProxyIP": "13.33.131.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
